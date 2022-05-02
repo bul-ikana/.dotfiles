@@ -1,0 +1,14 @@
+{
+    "editor.suggestSelection": "first",
+    "editor.suggest.snippetsPreventQuickSuggestions": false,
+    "editor.lineHeight": 2.6,
+    "editor.minimap.enabled": false,
+    "workbench.colorTheme": "One Dark Pro Flat",
+    "breadcrumbs.enabled": false,
+    "editor.formatOnPaste": true,
+    "editor.multiCursorModifier": "ctrlCmd",
+    "workbench.editor.enablePreview": true,
+    "workbench.colorCustomizations": {
+        "editorRuler.foreground": "#2f2f2f"
+    }
+}
