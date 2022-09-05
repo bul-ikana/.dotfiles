@@ -10,5 +10,6 @@
     "workbench.editor.enablePreview": true,
     "workbench.colorCustomizations": {
         "editorRuler.foreground": "#2f2f2f"
-    }
+    },
+    "workbench.startupEditor": "none"
 }
