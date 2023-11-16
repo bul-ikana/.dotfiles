@@ -2,7 +2,7 @@
 Dotfiles and custom config I use in MacOS to better suit my years-long muscle memory and workflow.
 
 # MacOS
-* [DefaultKeyBinding.dict](MacOS/DefaultKeyBinding.dict) Binds Keys at the OS level.
+* [DefaultKeyBinding.dict](MacOS/DefaultKeyBinding.dict) Binds Keys at the OS level. Move to `~/Library/KeyBindings/DefaultKeyBinding.dict`
 * [ModifierKeys.png](MacOS/ModifierKeys.png) Screenshot of Modifier Keys Settings for Keychron Keyboards.
 
 ## VSCode
